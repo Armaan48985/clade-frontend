@@ -19,12 +19,12 @@ const Main = () => {
       </div>
 
       <div className='w-full flex'>
-          <div className='w-[76%]'>
+          <div className='w-[77%]'>
             <Details/>
             <Footer/>
           </div>
 
-          <div className='w-[24%]'>
+          <div className='w-[23%]'>
             <Sidebar/>
           </div>
       </div>
